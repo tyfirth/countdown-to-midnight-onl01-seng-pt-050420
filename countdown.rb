@@ -8,4 +8,4 @@ def countdown(n)
  end
 end
 
-puts "HAPPY NEW YEAR!"
+return "HAPPY NEW YEAR!"
